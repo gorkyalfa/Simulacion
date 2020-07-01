@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1EDD10EA-83B0-463D-B392-6F7B17CD58B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1EDD10EA-83B0-463D-B392-6F7B17CD58B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1.Logica", "App1.Logica\App1.Logica.csproj", "{51CAB990-28D7-4970-BD2E-92514B338C5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1EDD10EA-83B0-463D-B392-6F7B17CD58B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EDD10EA-83B0-463D-B392-6F7B17CD58B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EDD10EA-83B0-463D-B392-6F7B17CD58B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CAB990-28D7-4970-BD2E-92514B338C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CAB990-28D7-4970-BD2E-92514B338C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CAB990-28D7-4970-BD2E-92514B338C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CAB990-28D7-4970-BD2E-92514B338C5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
